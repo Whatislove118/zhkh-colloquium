@@ -1,0 +1,13 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "whatislove118", email = "oleg.pochikalin@mail.ru"},
+]
+dependencies = []
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
+
+[tool.pdm]
